@@ -1,7 +1,8 @@
 
 # Myntra Clone Project
 
-![Project Preview](link-to-preview-image)
+[Project](![Screenshot 2024-07-04 193655](https://github.com/vijaychandra1910/MYNTRA_Clone/assets/138502362/b71785de-3c01-4789-b8f2-e715387d13c7)
+
 
 This project is a clone of the popular online fashion and lifestyle store, Myntra. It's built entirely using HTML, CSS, and JavaScript.
 
